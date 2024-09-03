@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [click here!](https://chirag-bishnoi.github.io/faq-accordion/)
 
 
 ### Built with
